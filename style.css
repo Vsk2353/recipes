@@ -1,0 +1,35 @@
+*{
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    outline: 2px solid red;
+    padding:0;
+    margin:0;
+
+}
+h1{
+    text-align: center;
+    border:5px solid aquamarine;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 25px;
+}
+
+ul{
+    font-size: 25px;
+}
+
+div{
+    padding: 25px;
+    margin:20px;
+    border-color: aquamarine;
+}
+
+.back{
+   text-align: center;
+   font-size: 30px;
+}
